@@ -20,6 +20,41 @@
 
 ---
 
+## 💼 Job History
+
+**Senior C# Developer**  
+OLVRO Co. Ltd. · Aug 2025 – Present  
+
+**Full Stack Engineer**  
+Nimbyx · Mar 2025 – Jul 2025  
+
+**Fullstack Software Developer**  
+Deployed · Mar 2023 – Oct 2024  
+- Developed and upgraded platform features across front-end and back-end.  
+- Implemented responsive designs, server-side logic, and new features.  
+- Improved system performance and user experience.  
+**Skills:** .NET Framework · API Development · ASP.NET · C# · LINQ · SQL · Docker · REST APIs · Azure · Redis · React.js · JavaScript · Node.js  
+
+**People Core Data Assistant Manager – Systems**  
+Watsons Philippines · Mar 2020 – Mar 2023  
+- Developed HR applications ensuring data privacy and security.  
+- Managed HRIS integrations with other business systems.  
+**Skills:** C# · ASP.NET Web API · SQL · LINQ · SSIS · Project Management · jQuery  
+
+**Mid Level .NET Developer**  
+Watsons Philippines · May 2018 – Feb 2020  
+- Built systems such as Cornerstone Validation, Fixed Asset Management, and System Dashboards.  
+**Skills:** .NET Framework · ASP.NET · SQL Server · VB.NET · SSIS · jQuery  
+
+**Data Analyst**  
+Collabera Philippines · Aug 2017 – Jan 2018  
+**Skills:** Microsoft Excel · SQL  
+
+**Intern**  
+Straive · Nov 2016 – Feb 2017  
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
