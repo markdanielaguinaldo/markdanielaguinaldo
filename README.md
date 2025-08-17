@@ -47,7 +47,7 @@
 **Data Analyst**  Collabera Philippines (Aug 2017 – Jan 2018) 
 **Skills:** Microsoft Excel · SQL  
 
-**Data Analyst**  Collabera Philippines (Nov 2016 – Feb 2017) 
+**Internship**  Straive (Nov 2016 – Feb 2017) 
 **Skills:** Microsoft Excel · PHP  
 
 ---
