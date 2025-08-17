@@ -27,21 +27,25 @@
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
 - Implemented web scraping solutions using Console Applications.  
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
-
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">.NET Framework</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">API Development</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">ASP.NET</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">C#</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">LINQ</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">SQL</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">REST APIs</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">Azure</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">React.js</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">Selenium</span>
-<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">Node.js</span>
-
-</div>
+<table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Framework</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">API Development</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">REST APIs</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Azure</td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">React.js</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Selenium</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Node.js</td>
+  </tr>
+</table>
   
 **Fullstack Software Developer** @ Deployed (Mar 2023 – Oct 2024)
 - Developed and upgraded platform features across front-end and back-end.  
