@@ -46,12 +46,14 @@
 
 **Data Analyst** @ Collabera Philippines (Aug 2017 – Jan 2018) 
 - Data Encoding and Analysis
+
 **Skills:** Microsoft Excel · SQL  
 
 
 **Internship** @ Straive (Nov 2016 – Feb 2017) 
 - Technical Support
 - Hardware Repair
+
 **Skills:** Microsoft Excel · PHP  
 
 ---
