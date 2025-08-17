@@ -26,7 +26,7 @@
 
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
-- Implemented web scraping solutions.  
+- Implemented web scraping solutions using Console Applications.  
 **Skills:** .NET Framework · API Development · ASP.NET · C# · LINQ · SQL · REST APIs · Azure · React.js · Selenium · Node.js
   
 **Fullstack Software Developer** @ Deployed (Mar 2023 – Oct 2024)
