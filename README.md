@@ -27,8 +27,20 @@
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
 - Implemented web scraping solutions using Console Applications.  
-<div style="border: 1px solid #d3d3d3; border-radius: 6px; padding: 10px; background-color: rgba(211, 211, 211, 0.15);">
-**Skills:** .NET Framework · API Development · ASP.NET · C# · LINQ · SQL · REST APIs · Azure · React.js · Selenium · Node.js  
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">.NET Framework</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">API Development</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">ASP.NET</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">C#</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">LINQ</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">SQL</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">REST APIs</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">Azure</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">React.js</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">Selenium</span>
+<span style="border:1px solid #d3d3d3; border-radius: 12px; padding:4px 10px; background-color: rgba(211,211,211,0.15);">Node.js</span>
+
 </div>
   
 **Fullstack Software Developer** @ Deployed (Mar 2023 – Oct 2024)
