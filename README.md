@@ -26,7 +26,7 @@
 
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
-- Implemented web scraping solutions using Console Applications.  
+- Implemented web scraping solutions using Console Applications.    
 **Skills:**
 <table>
   <tr>
@@ -47,7 +47,7 @@
 **Fullstack Software Developer** @ Deployed (Mar 2023 – Oct 2024)
 - Developed and upgraded platform features across front-end and back-end.  
 - Implemented responsive designs, server-side logic, and new features.  
-- Improved system performance and user experience.  
+- Improved system performance and user experience.    
 **Skills:**
   <table>
   <tr>
