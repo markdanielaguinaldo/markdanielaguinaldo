@@ -69,22 +69,59 @@
 
 **People Core Data Assistant Manager – Systems** @ Watsons Philippines (Mar 2020 – Mar 2023)
 - Developed HR applications ensuring data privacy and security.  
-- Managed HRIS integrations with other business systems.  
-**Skills:** C# · ASP.NET Web API · SQL · LINQ · SSIS · Project Management · jQuery  
+- Managed HRIS integrations with other business systems.    
+
+**Skills:**
+  <table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">API Development</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SSIS</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Project Management</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">jQuery </td>
+  </tr>
+</table>
 
 **Mid Level .NET Developer** @ Watsons Philippines · (May 2018 – Feb 2020) 
-- Built systems such as Cornerstone Validation, Fixed Asset Management, and System Dashboards.  
-**Skills:** .NET Framework · ASP.NET · SQL Server · VB.NET · SSIS · jQuery  
+- Built systems such as Cornerstone Validation, Fixed Asset Management, and System Dashboards.    
+
+**Skills:**
+  <table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SSIS</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">jQuery </td>
+  </tr>
+</table>
 
 **Data Analyst** @ Collabera Philippines (Aug 2017 – Jan 2018) 
-- Data Encoding and Analysis.  
-**Skills:** Microsoft Excel · SQL  
+- Data Encoding and Analysis.    
 
+**Skills:**
+  <table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Microsoft Excel</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
+  </tr>
+</table>
 
 **Internship** @ Straive (Nov 2016 – Feb 2017) 
 - Technical Support.
-- Hardware Repair.  
-**Skills:** Microsoft Excel · PHP  
+- Hardware Repair.    
+
+**Skills:**
+  <table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Microsoft Excel</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">PHP</td>
+  </tr>
+</table>
 
 ---
 
