@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 - 💼 Senior **C# Developer** at <a href="https://www.linkedin.com/company/watsonsphilippines/posts/?feedView=all" target="_blank"><strong>Watsons Philippines</strong></a> <img src="https://media.licdn.com/dms/image/v2/D560BAQHhZAa3g4P42A/company-logo_200_200/company-logo_200_200/0/1690879010455/watsonsphilippines_logo?e=1757548800&v=beta&t=VgX1MhpOVV2KFRE-78vu_zZAdl4AMzknZ0MwD7e-jIg" alt="Watsons Logo" width="20" height="20" />
-- 🧩 Fullstack dev working with **React**, **Next.js**, **Javascript**, **TypeScript**, **C# .Net Core/MVC**, **.NET**, **Azure DevOps**, and **Node.js**
+- 🧩 Fullstack Developer working with **React**, **Next.js**, **Javascript**, **TypeScript**, **C# .Net Core/MVC**, **.NET**, **Azure DevOps**, and **Node.js**
 - 🗄️  DB: **SQL Server**
 - 🔍 Skilled in Developing **REST APIs**, **Web Scraping** and **Web Applications** using modern **Web Architectures**
 
@@ -23,7 +23,23 @@
 ## 💼 Job History
 
 **Senior C# Developer** @ OLVRO Co. Ltd. (Aug 2025 – Present)
+- Developing API and Dashboards    
 
+**Skills:**
+  <table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Core</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">REST APIs</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Azure</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">React.js</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Selenium</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Node.js</td>
+  </tr>
+</table> 
 
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
