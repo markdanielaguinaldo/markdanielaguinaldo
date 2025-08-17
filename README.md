@@ -27,6 +27,7 @@
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
 - Implemented web scraping solutions using Console Applications.  
+**Skills:**
 <table>
   <tr>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Framework</td>
@@ -47,7 +48,22 @@
 - Developed and upgraded platform features across front-end and back-end.  
 - Implemented responsive designs, server-side logic, and new features.  
 - Improved system performance and user experience.  
-**Skills:** .NET Framework · API Development · ASP.NET · C# · LINQ · SQL · Docker · REST APIs · Azure · Redis · React.js · JavaScript · Node.js  
+**Skills:**
+  <table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Framework</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">API Development</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">REST APIs</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Azure</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Docker</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Redis</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Node.js</td>
+  </tr>
+</table>
 
 **People Core Data Assistant Manager – Systems** @ Watsons Philippines (Mar 2020 – Mar 2023)
 - Developed HR applications ensuring data privacy and security.  
