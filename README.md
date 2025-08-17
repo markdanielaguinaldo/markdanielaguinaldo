@@ -48,6 +48,7 @@
 **Skills:** Microsoft Excel · SQL  
 
 **Internship**  Straive (Nov 2016 – Feb 2017) 
+
 **Skills:** PHP · Microsoft Excel 
 ---
 
