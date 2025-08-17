@@ -27,8 +27,9 @@
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
 - Implemented web scraping solutions using Console Applications.    
+
 **Skills:**
-<table>
+  <table>
   <tr>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Framework</td>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">API Development</td>
@@ -48,6 +49,7 @@
 - Developed and upgraded platform features across front-end and back-end.  
 - Implemented responsive designs, server-side logic, and new features.  
 - Improved system performance and user experience.    
+
 **Skills:**
   <table>
   <tr>
