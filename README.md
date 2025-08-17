@@ -3,7 +3,11 @@
 
 ---
 
-<a align="center" href="https://app.daily.dev/trico112"><img src="https://api.daily.dev/devcards/v2/mfC7Buu1vjbhiqwMVTV8t.png?type=default&r=ufa" width="356" alt="Mark Aguinaldo's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/trico112">
+    <img src="https://api.daily.dev/devcards/v2/mfC7Buu1vjbhiqwMVTV8t.png?type=default&r=ufa" width="356" alt="Mark Aguinaldo's Dev Card"/>
+  </a>
+</p>
 
 ### 🧑‍💻 About Me
 
