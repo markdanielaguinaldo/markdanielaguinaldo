@@ -49,6 +49,7 @@
 
 **Data Analyst**  Collabera Philippines (Nov 2016 – Feb 2017) 
 **Skills:** Microsoft Excel · PHP  
+
 ---
 
 <p align="center">
