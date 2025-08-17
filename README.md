@@ -45,13 +45,13 @@
 **Skills:** .NET Framework · ASP.NET · SQL Server · VB.NET · SSIS · jQuery  
 
 **Data Analyst** @ Collabera Philippines (Aug 2017 – Jan 2018) 
-- Data Encoding and Analysis.
+- Data Encoding and Analysis.  
 **Skills:** Microsoft Excel · SQL  
 
 
 **Internship** @ Straive (Nov 2016 – Feb 2017) 
 - Technical Support.
-- Hardware Repair.
+- Hardware Repair.  
 **Skills:** Microsoft Excel · PHP  
 
 ---
