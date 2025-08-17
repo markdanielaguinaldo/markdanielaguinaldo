@@ -35,20 +35,20 @@
 - Improved system performance and user experience.  
 **Skills:** .NET Framework · API Development · ASP.NET · C# · LINQ · SQL · Docker · REST APIs · Azure · Redis · React.js · JavaScript · Node.js  
 
-**People Core Data Assistant Manager – Systems**  Watsons Philippines (Mar 2020 – Mar 2023)
+**People Core Data Assistant Manager – Systems** @ Watsons Philippines (Mar 2020 – Mar 2023)
 - Developed HR applications ensuring data privacy and security.  
 - Managed HRIS integrations with other business systems.  
 **Skills:** C# · ASP.NET Web API · SQL · LINQ · SSIS · Project Management · jQuery  
 
-**Mid Level .NET Developer**  Watsons Philippines · (May 2018 – Feb 2020) 
+**Mid Level .NET Developer** @ Watsons Philippines · (May 2018 – Feb 2020) 
 - Built systems such as Cornerstone Validation, Fixed Asset Management, and System Dashboards.  
 **Skills:** .NET Framework · ASP.NET · SQL Server · VB.NET · SSIS · jQuery  
 
-**Data Analyst**  Collabera Philippines (Aug 2017 – Jan 2018) 
+**Data Analyst** @ Collabera Philippines (Aug 2017 – Jan 2018) 
 
 **Skills:** Microsoft Excel · SQL  
 
-**Internship**  Straive (Nov 2016 – Feb 2017) 
+**Internship** @ Straive (Nov 2016 – Feb 2017) 
 
 **Skills:** Microsoft Excel · PHP  
 
