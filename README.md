@@ -31,8 +31,7 @@
 **Skills:**
   <table>
   <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Framework</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">API Development</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Core</td>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
@@ -53,8 +52,7 @@
 **Skills:**
   <table>
   <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Framework</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">API Development</td>
+    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Core</td>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
