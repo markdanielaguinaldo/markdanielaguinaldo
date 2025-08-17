@@ -7,8 +7,8 @@
 
 - 💼 Senior **C# Developer** at <a href="https://www.linkedin.com/company/watsonsphilippines/posts/?feedView=all" target="_blank"><strong>Watsons Philippines</strong></a> <img src="https://media.licdn.com/dms/image/v2/D560BAQHhZAa3g4P42A/company-logo_200_200/company-logo_200_200/0/1690879010455/watsonsphilippines_logo?e=1757548800&v=beta&t=VgX1MhpOVV2KFRE-78vu_zZAdl4AMzknZ0MwD7e-jIg" alt="Watsons Logo" width="20" height="20" />
 - 🧩 Fullstack dev working with **React**, **Next.js**, **Javascript**, **TypeScript**, **C# .Net Core/MVC**, **.NET**, **Azure DevOps**, and **Node.js**
-- 🗄️   DB: **SQL Server**
-- 🔍 Skilled in **API development**, **Web scraping**, **Web Applications** and  using modern **web architectures**
+- 🗄️  DB: **SQL Server**
+- 🔍 Skilled in **API Development**, **Web Scraping**, **Web Applications** using modern **Web Architectures**
 
 ---
 
