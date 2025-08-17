@@ -3,6 +3,8 @@
 
 ---
 
+<a href="https://app.daily.dev/trico112"><img src="https://api.daily.dev/devcards/v2/mfC7Buu1vjbhiqwMVTV8t.png?type=default&r=8z3" width="356" alt="Mark Aguinaldo's Dev Card"/></a>
+
 ### 🧑‍💻 About Me
 
 - 💼 Senior **C# Developer** at <a href="https://www.linkedin.com/company/watsonsphilippines/posts/?feedView=all" target="_blank"><strong>Watsons Philippines</strong></a> <img src="https://media.licdn.com/dms/image/v2/D560BAQHhZAa3g4P42A/company-logo_200_200/company-logo_200_200/0/1690879010455/watsonsphilippines_logo?e=1757548800&v=beta&t=VgX1MhpOVV2KFRE-78vu_zZAdl4AMzknZ0MwD7e-jIg" alt="Watsons Logo" width="20" height="20" />
