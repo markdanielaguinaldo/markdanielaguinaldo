@@ -62,7 +62,7 @@
 </table>
 
 
-**Fullstack Software Developer** @ Deployed (Mar 2023 – Oct 2024)
+**Fullstack Software Developer** @ Deployed Inc.(Mar 2023 – Oct 2024)
 - Developed and upgraded platform features across front-end and back-end.  
 - Implemented responsive designs, server-side logic, and new features.  
 - Improved system performance and user experience.    
