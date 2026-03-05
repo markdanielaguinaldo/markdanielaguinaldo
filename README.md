@@ -154,7 +154,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mark-aguinaldo-7bba32142/" target="_blank">
+  <a href="[https://www.linkedin.com/in/mark-aguinaldo-7bba32142/](https://www.linkedin.com/in/mark-daniel-aguinaldo-7bba32142/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mark%20Aguinaldo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
