@@ -22,8 +22,15 @@
 
 ## 💼 Job History
 
-**Senior C# Developer** @ OLVRO Co. Ltd. (Aug 2025 – Present)
-- Developing API and Dashboards    
+**Senior C# Developer / Tech Lead** @ OLVRO Co. Ltd. (Aug 2025 – Present)
+
+* Lead a team of 5–10 junior developers in delivering enterprise HR technology solutions.
+* Manage the migration of employee and organizational data from a legacy HR Suite application to Oracle HCM.
+* Collaborate with HR stakeholders to analyze requirements, define migration strategies, and ensure data accuracy and compliance.
+* Develop and maintain APIs, dashboards, and internal tools using C# and .NET technologies.
+* Oversee development environments, deployment processes, and technical standards across projects.
+* Conduct code reviews, mentor junior developers, and support their professional growth.
+* Coordinate project planning, task allocation, and delivery to ensure successful project execution.
 
 **Skills:**
   <table>
