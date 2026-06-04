@@ -48,6 +48,8 @@
   </tr>
 </table> 
 
+---
+
 **Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
 - Developed APIs and React.js components.  
 - Implemented web scraping solutions using Console Applications.    
@@ -67,6 +69,8 @@
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Node.js</td>
   </tr>
 </table>
+
+---
 
 
 **Fullstack Software Developer** @ Deployed Inc.(Mar 2023 – Oct 2024)
@@ -90,6 +94,8 @@
   </tr>
 </table>
 
+---
+
 
 **People Core Data Assistant Manager – Systems** @ Watsons Philippines (Mar 2020 – Mar 2023)
 - Developed HR applications ensuring data privacy and security.  
@@ -109,6 +115,8 @@
   </tr>
 </table>
 
+---
+
 
 **Mid Level .NET Developer** @ Watsons Philippines · (May 2018 – Feb 2020) 
 - Built systems such as Cornerstone Validation, Fixed Asset Management, and System Dashboards.    
@@ -125,6 +133,8 @@
   </tr>
 </table>
 
+---
+
 
 **Data Analyst** @ Collabera Philippines (Aug 2017 – Jan 2018) 
 - Data Encoding and Analysis.    
@@ -136,6 +146,8 @@
     <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
   </tr>
 </table>
+
+---
 
 
 **Internship** @ Straive (Nov 2016 – Feb 2017) 
