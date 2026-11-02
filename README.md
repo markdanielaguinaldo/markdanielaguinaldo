@@ -13,9 +13,3 @@
 - **Interested in:** web scraping, automation, and modern web architecture
 - **Currently learning:** system design and AI-assisted development
 - **Also working on:** building my own homelab
-
-### 📫 Let's connect
-
-<a href="https://app.daily.dev/trico112">
-  <img src="https://api.daily.dev/devcards/v2/mfC7Buu1vjbhiqwMVTV8t.png?type=default&r=ufa" width="356" alt="Mark Aguinaldo's Dev Card"/>
-</a>
