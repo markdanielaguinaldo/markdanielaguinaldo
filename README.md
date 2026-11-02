@@ -1,179 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mark Daniel Aguinaldo</h1>
-<h3 align="center">Senior C# Developer at Watsons</h3>
-
----
-
-### 🧑‍💻 About Me
-
-- 💼 Senior **C# Developer** at <a href="https://www.linkedin.com/company/watsonsphilippines/posts/?feedView=all" target="_blank"><strong>Watsons Philippines</strong></a> 
-- 🧩 Fullstack Developer working with **React**, **Next.js**, **Javascript**, **TypeScript**, **C# .Net Core/MVC**, **.NET**, **Azure DevOps**, and **Node.js**
-- 🗄️  DB: **SQL Server**
-- 🔍 Skilled in Developing **REST APIs**, **Web Scraping** and **Web Applications** using modern **Web Architectures**
-
----
-
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,nextjs,ts,js,html,css,azure,git,vscode" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=markdanielaguinaldo&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdanielaguinaldo&hide_title=true&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages" />
 </p>
 
----
+### Hi, I'm Mark.
 
-## 💼 Job History
+**Senior C# Developer @ Watsons Philippines** · [LinkedIn](https://www.linkedin.com/in/mark-daniel-aguinaldo-7bba32142/) · [Job History](./JOB_HISTORY.md)
 
-**Senior C# Developer / Tech Lead** @ OLVRO Co. Ltd. (Aug 2025 – Present)
-
-* Lead a team of 5–10 junior developers in delivering enterprise HR technology solutions.
-* Manage the migration of employee and organizational data from a legacy HR Suite application to Oracle HCM.
-* Collaborate with HR stakeholders to analyze requirements, define migration strategies, and ensure data accuracy and compliance.
-* Develop and maintain APIs, dashboards, and internal tools using C# and .NET technologies.
-* Oversee development environments, deployment processes, and technical standards across projects.
-* Conduct code reviews, mentor junior developers, and support their professional growth.
-* Coordinate project planning, task allocation, and delivery to ensure successful project execution.
-
-**Skills:**
-  <table>
-  <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Core</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">REST APIs</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Azure</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">React.js</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Selenium</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Node.js</td>
-  </tr>
-</table> 
-
----
-
-**Full Stack Engineer** @ Nimbyx (Mar 2025 – Jul 2025)  
-- Developed APIs and React.js components.  
-- Implemented web scraping solutions using Console Applications.    
-
-**Skills:**
-  <table>
-  <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Core</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">REST APIs</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Azure</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">React.js</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Selenium</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Node.js</td>
-  </tr>
-</table>
-
----
-
-
-**Fullstack Software Developer** @ Deployed Inc.(Mar 2023 – Oct 2024)
-- Developed and upgraded platform features across front-end and back-end.  
-- Implemented responsive designs, server-side logic, and new features.  
-- Improved system performance and user experience.    
-
-**Skills:**
-  <table>
-  <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">.NET Core</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">ASP.NET</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">REST APIs</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Azure</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Docker</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Redis</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Node.js</td>
-  </tr>
-</table>
-
----
-
-
-**People Core Data Assistant Manager – Systems** @ Watsons Philippines (Mar 2020 – Mar 2023)
-- Developed HR applications ensuring data privacy and security.  
-- Managed HRIS integrations with other business systems.    
-
-**Skills:**
-  <table>
-  <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">API Development</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SSIS</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Project Management</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">jQuery </td>
-  </tr>
-</table>
-
----
-
-
-**Mid Level .NET Developer** @ Watsons Philippines · (May 2018 – Feb 2020) 
-- Built systems such as Cornerstone Validation, Fixed Asset Management, and System Dashboards.    
-
-**Skills:**
-  <table>
-  <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">C#</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">LINQ</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SSIS</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">jQuery </td>
-  </tr>
-</table>
-
----
-
-
-**Data Analyst** @ Collabera Philippines (Aug 2017 – Jan 2018) 
-- Data Encoding and Analysis.    
-
-**Skills:**
-  <table>
-  <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Microsoft Excel</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">SQL</td>
-  </tr>
-</table>
-
----
-
-
-**Internship** @ Straive (Nov 2016 – Feb 2017) 
-- Technical Support.
-- Hardware Repair.    
-
-**Skills:**
-  <table>
-  <tr>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">Microsoft Excel</td>
-    <td style="border:1px solid #d3d3d3; border-radius:8px; padding:6px; background-color:#f6f6f6;">PHP</td>
-  </tr>
-</table>
-
----
+- 🔭 I'm currently working on ... enterprise HR platforms, dashboards, and large-scale data migrations
+- 🧩 I'm a fullstack developer ... **C# / .NET**, **React**, **Next.js**, **TypeScript**, **Node.js**
+- 🗄️ I work mostly with ... **SQL Server**, **REST APIs**, and **Azure DevOps**
+- 🔍 I'm into ... web scraping, automation, and modern web architecture
+- 🌱 I'm currently learning ... system design and AI-assisted development
+- 📫 Reach me ... on [LinkedIn](https://www.linkedin.com/in/mark-daniel-aguinaldo-7bba32142/)
 
 <p align="center">
-  <a href="https://app.daily.dev/trico112">
-    <img src="https://api.daily.dev/devcards/v2/mfC7Buu1vjbhiqwMVTV8t.png?type=default&r=ufa" width="356" alt="Mark Aguinaldo's Dev Card"/>
-  </a>
-</p>
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mark-daniel-aguinaldo-7bba32142/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mark%20Aguinaldo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,nextjs,ts,js,html,css,azure,git,vscode" alt="Tech stack" />
 </p>
