@@ -9,7 +9,7 @@
 
 ### Hi, I'm Mark.
 
-**Senior C# Developer @ Watsons Philippines** · [LinkedIn](https://www.linkedin.com/in/mark-daniel-aguinaldo-7bba32142/) · [Job History](./JOB_HISTORY.md)
+**Senior C# Developer @ Watsons Philippines** · [Portfolio](https://home.projectmark.xyz/) · [LinkedIn](https://www.linkedin.com/in/mark-daniel-aguinaldo-7bba32142/) · [Job History](./JOB_HISTORY.md)
 
 - **Currently working on:** enterprise HR platforms, dashboards, and large-scale data migrations
 - **Fullstack developer:** C# / .NET, React, Next.js, TypeScript, and Node.js
@@ -17,3 +17,4 @@
 - **Interested in:** web scraping, automation, and modern web architecture
 - **Currently learning:** system design and AI-assisted development
 - **Also working on:** building my own homelab
+- **Portfolio:** [home.projectmark.xyz](https://home.projectmark.xyz/)
